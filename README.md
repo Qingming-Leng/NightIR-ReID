@@ -4,4 +4,4 @@
 ![Image text](image/samples.png) 
 ![Image text](image/samples2.png) 
 
-We welcome researchers to explore our dataset. If you need to use the NightIR01 dataset, please contact us at [qingming_leng@jju.edu.cn](mailtoqingming_leng@jju.edu.cn).
+We welcome researchers to explore our dataset. If you need to use the NightIR-ReID dataset, please contact us at [qingming_leng@jju.edu.cn](mailtoqingming_leng@jju.edu.cn).
