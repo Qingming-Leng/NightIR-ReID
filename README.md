@@ -1,5 +1,5 @@
-<h1 align="center">NightIR01:An Infrared Nighttime Person Re-identification Benchmark</h1>
-<h3 align="center">NightIR01 Dataset</h3>
+<h1 align="center">NightIR-ReID:An Infrared Nighttime Person Re-identification Benchmark</h1>
+<h3 align="center">NightIR-ReID Dataset</h3>
 
 ![Image text](image/samples.png) 
 ![Image text](image/samples2.png) 
